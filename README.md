@@ -50,11 +50,15 @@
 ## Задание 2
 ### Построить графики зависимости количества эпох от ошибки  обучения. Указать от чего зависит необходимое количество эпох обучения.
 
+![image](https://github.com/Usterik/Workshop4/assets/149312199/030acc97-578b-461c-8bd5-7d21e108bcca)
+
 - https://docs.google.com/spreadsheets/d/19AQmcfziBaUBxJkty2qxx67gvf8kvd3tm6eFHlwMaL8/edit#gid=0
 - Необходимое количество эпох зависит от сложности задачи.
 
 ## Задание 3
 ### Построить визуальную модель работы перцептрона на сцене Unity.
+
+![image](https://github.com/Usterik/Workshop4/assets/149312199/1b2edd4f-8c13-46b1-acc5-c673f8a23c50)
 
 - Для построения визуальной модели я использовал кубы, компонент Rigidbody, методы OnTriggerEnter и OnCollisionEnter.
 
